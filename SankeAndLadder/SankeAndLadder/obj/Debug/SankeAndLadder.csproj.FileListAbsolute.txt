@@ -1,0 +1,8 @@
+D:\BridgeLabz\SankeAndLadder\SankeAndLadder\SankeAndLadder\bin\Debug\SankeAndLadder.exe.config
+D:\BridgeLabz\SankeAndLadder\SankeAndLadder\SankeAndLadder\bin\Debug\SankeAndLadder.exe
+D:\BridgeLabz\SankeAndLadder\SankeAndLadder\SankeAndLadder\bin\Debug\SankeAndLadder.pdb
+D:\BridgeLabz\SankeAndLadder\SankeAndLadder\SankeAndLadder\obj\Debug\SankeAndLadder.csproj.AssemblyReference.cache
+D:\BridgeLabz\SankeAndLadder\SankeAndLadder\SankeAndLadder\obj\Debug\SankeAndLadder.csproj.SuggestedBindingRedirects.cache
+D:\BridgeLabz\SankeAndLadder\SankeAndLadder\SankeAndLadder\obj\Debug\SankeAndLadder.csproj.CoreCompileInputs.cache
+D:\BridgeLabz\SankeAndLadder\SankeAndLadder\SankeAndLadder\obj\Debug\SankeAndLadder.exe
+D:\BridgeLabz\SankeAndLadder\SankeAndLadder\SankeAndLadder\obj\Debug\SankeAndLadder.pdb
